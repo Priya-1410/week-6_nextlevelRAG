@@ -1,0 +1,14 @@
+{
+    "python_version": "3.12",
+    "libraries": {
+        "numpy": "latest",
+        "pandas": "latest",
+        "networkx": "latest",
+        "matplotlib": "latest",
+        "streamlit": "latest",
+        "re": "builtin",
+        "json": "builtin"
+    },
+    "execution_platform": "Google Colab",
+    "notes": "Environment used for Week 6 Graph-RAG, Multi-Hop QA, and Streamlit deployment"
+}

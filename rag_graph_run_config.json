@@ -1,0 +1,15 @@
+{
+    "graph_file": "graph_stock_forecast.gpickle",
+    "graph_library": "networkx",
+    "entity_extraction": "regex patterns (Agents, Models, Datasets, Metrics)",
+    "relation_extraction": "sentence-level co-occurrence + pattern rules",
+    "retriever_types": [
+        "Dense",
+        "Graph-RAG"
+    ],
+    "hop_limit": 2,
+    "retriever_top_k": 3,
+    "streamlit_app": true,
+    "multi_hop_enabled": true,
+    "notes": "Track A/B/C integrated. Cloudflare tunnel used for Streamlit deployment."
+}

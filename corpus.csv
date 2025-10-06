@@ -1,0 +1,13 @@
+doc_id,text
+doc1,The Multi-Agent GenAI framework combines reinforcement learning agents with large language models to predict stock trends.
+doc2,Agent Alpha collects real-time financial news and computes sentiment scores using FinBERT.
+doc3,"Agent Beta monitors market indicators such as moving averages, RSI, and trading volume for signal generation."
+doc4,Agent Gamma integrates signals from sentiment and technical indicators using a transformer-based fusion model.
+doc5,The ensemble of agents communicates through a coordination layer using weighted consensus for final stock price prediction.
+doc6,Historical data from NASDAQ and NYSE were used to train the agents on 5 years of daily prices.
+doc7,The proposed model outperforms LSTM and ARIMA baselines with an average RMSE reduction of 12%.
+doc8,"Sentiment scores are derived from Twitter, Reddit, and financial news articles collected via API integration."
+doc9,The sentiment-agent uses a fine-tuned FinBERT model for polarity detection on market-related tweets.
+doc10,"Market-agent relies on quantitative features like SMA, EMA, RSI, and MACD for trend estimation."
+doc11,"Experiments show that when sentiment signals are positive and technical momentum is bullish, the ensemble predicts upward movement with 87% accuracy."
+doc12,The ablation study demonstrates that removing the sentiment-agent decreases performance by 9% on F1 score.

@@ -1,0 +1,14 @@
+query,retriever,correct
+Which model does Agent Alpha use for sentiment analysis?,Dense,1
+Which model does Agent Alpha use for sentiment analysis?,Graph-RAG,1
+Which datasets were used to train the agents?,Dense,1
+Which datasets were used to train the agents?,Graph-RAG,0
+Which model outperforms LSTM?,Dense,1
+Which model outperforms LSTM?,Graph-RAG,1
+Which agent integrates sentiment and market indicators?,Dense,1
+Which agent integrates sentiment and market indicators?,Graph-RAG,0
+What happens when the sentiment-agent is removed?,Dense,1
+What happens when the sentiment-agent is removed?,Graph-RAG,0
+Which model does the agent that integrates sentiment and market indicators use?,Multi-Hop,1
+Which datasets were used by the agents that analyze financial sentiment?,Multi-Hop,1
+"What happens when the sentiment-agent is removed, and which metric decreases?",Multi-Hop,1
